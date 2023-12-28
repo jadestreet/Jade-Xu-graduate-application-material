@@ -14,5 +14,5 @@ In conclusion, my exploration into fairness in GNNs not only highlighted the exi
 
 [^1]:Fairness notions and methods to alleviate fairness issues are introduced in the concepts & details file.
 [^2]:GCA overview is introduced in the concepts & details file.
-[^3]:Selected Datasets and experiment results are introduced in the concepts & details file.
+[^3]:Selected datasets and experiment results are introduced in the concepts & details file.
 [^4]:Details about these advanced methods are introduced in the concepts & details file.
