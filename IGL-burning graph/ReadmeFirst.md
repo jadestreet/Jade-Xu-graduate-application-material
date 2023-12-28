@@ -1,4 +1,4 @@
-# Research Experience: Burning Graph at the *Illinois Geometry Lab*
+# Burning Graph at the *Illinois Geometry Lab*
 ## Overview
 My journey to research took place at the *Illinois Geometry Lab*, an environment dedicated to geometry-centered projects. The *Burning Graph* project, my first research experience, involved collaborating with four fellow undergraduates with the ambitious goal of proving the *Burning Number Conjecture*.
 ## Prerequisite
