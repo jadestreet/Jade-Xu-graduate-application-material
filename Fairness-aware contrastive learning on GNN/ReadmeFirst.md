@@ -1,4 +1,4 @@
-# Research Experience: Fairness-aware Graph Neural Networks (GNN) at UIUC’s CS Department
+# Fairness-aware Graph Neural Networks (GNN) at UIUC’s CS Department
 ## Project Overview
 Conducted within the UIUC Computer Science department, this project involved students being filtered and matched with professors. My group's focus was on Graph Neural Networks (GNN), specifically addressing fairness concerns. The objective was to mitigate fairness issues prevalent in existing state-of-the-art models.
 ## Background and Learning
