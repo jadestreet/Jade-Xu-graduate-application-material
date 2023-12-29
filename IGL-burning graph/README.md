@@ -16,4 +16,4 @@ Finally, I successfully implemented an algorithm capable of simulating all burni
 ## Incident and Resolution
 While this new structure successfully simulated the burning process, adapting to Python, our chosen programming language, presented challenges in certain edge cases. Collective troubleshooting efforts within the group led to identifying the issue, and I adjusted the algorithm structure to align with Python's return property. This meticulous process marked my initiation into designing complex simulations for theoretical graphs, sparking a lasting interest in graph-structured data.
 
-[^1]: The proof is given in the report, the overview is in the poster.
+[^1]: The proof is given in the [report](https://github.com/jadestreet/Jade-Xu-graduate-application-material/blob/main/IGL-burning%20graph/Final%20report.pdf), the overview is in the [poster](https://github.com/jadestreet/Jade-Xu-graduate-application-material/blob/main/IGL-burning%20graph/Mid%20report%20poster.pdf).
