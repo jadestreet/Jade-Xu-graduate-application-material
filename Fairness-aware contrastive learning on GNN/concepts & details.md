@@ -44,8 +44,8 @@ Problem: we had a disagreement on the availability of this method. One mentor st
 
 ## 5 How to Select Sensitive Features?
 We select sensitive features based on social-cultural concept and empirical experiments. 
-Draw features from the pool of disadvantaged groups: gender, race, region…
-Conduct experiments to see if there are any differences between sensitive groups & insensitive groups.
+1. Draw features from the pool of disadvantaged groups: gender, race, region…
+2. Conduct experiments to see if there are any differences between sensitive groups & insensitive groups.
 
 ## 6 Datasets Used
 Cora: citation network \
