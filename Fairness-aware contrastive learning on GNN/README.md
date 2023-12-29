@@ -12,7 +12,7 @@ Building on these results, I conducted a more in-depth analysis to explore addit
 ## Conclusion
 In conclusion, my exploration into fairness in GNNs not only highlighted the existing issues but also demonstrated tangible improvements through practical interventions. This experience deepened my understanding of fairness challenges in machine learning models and fostered a proactive approach to addressing them.
 
-[^1]:Fairness notions and methods to alleviate fairness issues are introduced in the concepts & details file.
+[^1]:Fairness notions and methods to alleviate fairness issues are introduced in the [concepts & details](https://github.com/jadestreet/Jade-Xu-graduate-application-material/blob/main/Fairness-aware%20contrastive%20learning%20on%20GNN/concepts%20%26%20details.md) file.
 [^2]:GCA overview is introduced in the concepts & details file.
 [^3]:Selected datasets and experiment results are introduced in the concepts & details file.
 [^4]:Details about these advanced methods are introduced in the concepts & details file.
