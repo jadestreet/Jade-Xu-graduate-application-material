@@ -6,7 +6,7 @@ In a nutshell, GNN is a type of Neural Network that takes in graph data as input
 <!--Need literature.-->
 Based on past publishment and my understanding, fairness in GNN encompasses two primary dimensions.
 ### 2.1 Equal Opportunity Fairness:
-This dimension aims to provide equitable opportunities to groups or individuals. It includes various types of fairness such as group fairness, individual fairness, and counterfactual fairness. \
+This dimension aims to provide equitable opportunities to groups or individuals. It includes various types of fairness such as group fairness, individual fairness, and counterfactual fairness. 
 <!--[definition & examples]-->
 
 ### 2.2 Utility-Focused Fairness:
