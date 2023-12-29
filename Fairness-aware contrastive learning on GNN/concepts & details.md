@@ -2,11 +2,12 @@
 ## 1 What is Graph Neural Networks (GNN)? 
 <!--Need literature.-->
 In a nutshell, GNN is a type of Neural Network that takes in graph data as input.
-## 2 What is fairness in GNN? Need literature.
+## 2 What is fairness in GNN? 
+<!--Need literature.-->
 Based on past publishment and my understanding, fairness in GNN encompasses two primary dimensions.
 ### 2.1 Equal Opportunity Fairness:
 This dimension aims to provide equitable opportunities to groups or individuals. It includes various types of fairness such as group fairness, individual fairness, and counterfactual fairness. \
-[definition & examples]
+<!--[definition & examples]-->
 
 ### 2.2 Utility-Focused Fairness:
 This dimension, though under-explored, revolves around managing resources to ensure every applicant secures their most ideal position. This approach introduces a theoretical perspective, emphasizing utility over equal opportunities. Notably, it raises challenges in real-world application, considering both applicant preferences and maximizing the hiring potential of the company.
@@ -20,8 +21,8 @@ While this method sounds attractive, nonetheless, it more or less ignores the in
 ## 3 Widely used fair methods at that time? sheet
 This section explores fairness methods focusing on the structure and features of input data.
 
-## 4 What is Contrastive Learning (CL)? [Graph of its structure]
-Emphasize structure.
+## 4 What is Contrastive Learning (CL)? 
+<!--[Graph of its structure] Emphasize structure.-->
 The core element of CL is to make distances between similar pairs closer than dissimilar pairs. This structural emphasis aligns with the definition of individual fairness.
 
 ## 5	Methods I have used and planned to use? Half Done. 
