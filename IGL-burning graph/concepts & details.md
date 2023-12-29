@@ -1,3 +1,4 @@
+[Back to main page](https://github.com/jadestreet/Jade-Xu-graduate-application-material/tree/main/IGL-burning%20graph)
 ## What is the **graph** in burning graph?
 In the realm of Burning Graph, our canvas is a finite, simple, and undirected graph, denoted as *G*. This graph, devoid of multiple edges between any two vertices and with no self-looping edges, sets the stage for our exploration.
 
