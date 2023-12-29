@@ -2,7 +2,7 @@
 ## Overview
 My journey to research took place at the *Illinois Geometry Lab*, an environment dedicated to geometry-centered projects. The *Burning Graph* project, my first research experience, involved collaborating with four fellow undergraduates with the ambitious goal of proving the *Burning Number Conjecture*.
 ## Prerequisite
-To grasp the intricacies of our work, it's essential to delve into the concepts of graph burning, the burning process, and the burning number. If these concepts are strange to you and you would like to know more about this project, feel free to view the [concepts & details](https://github.com/jadestreet/Jade-Xu-graduate-application-material/blob/main/IGL-burning%20graph/concepts%20%26%20details.md) file.
+To grasp the intricacies of our work, it's essential to delve into the concepts of **graph burning**, **the burning process**, and **the burning number**. If these concepts are strange to you and you would like to know more about this project, feel free to view the [concepts & details](https://github.com/jadestreet/Jade-Xu-graduate-application-material/blob/main/IGL-burning%20graph/concepts%20%26%20details.md) file.
 ## Accomplishments: Proving & Simulation
 My contributions to the Burning Graph project were twofold: **mathematical theorem proving** and **the implementation of the first simulation algorithm**.
 I participated in proving the theory by finding a contradiction in the **Minimal Counterexample** (the smallest example that falsifies a claim). In the realm of mathematical proofs, we successfully demonstrated the conjecture in two specific cases[^1], but applying it broadly posed challenges.To break through the bottleneck, our mentor advised a shift toward implementing a simulation algorithm.
