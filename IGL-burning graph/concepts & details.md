@@ -7,7 +7,7 @@ The Burning Process involves equipping each node in the graph *G* with an attrib
 ### Details of The Burning Process
 Starting with an unburned graph *G*, the process unfolds in two key steps: 
 1. Burn Neighbors: Burned vertices propagate the burned status to their one-hop neighbors.
-2. Pick and Burn A Source: A node is chosen as the ignition source and set burned if unburned. Typically, we select unburned nodes for ignition.
+2. Pick and Burn A Source: A node is chosen as the ignition source and set burned if unburned. Typically, we select unburned nodes as the source to accelate the burning speed.
 
 ### The Burning Number
 This quantifies the number of rounds or sources required to burn the entire graph.
