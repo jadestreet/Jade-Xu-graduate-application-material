@@ -13,5 +13,5 @@ Starting with an unburned graph *G*, the process unfolds in two key steps:
 This quantifies the number of rounds or sources required to burn the entire graph.
 
 ## What is the *Burning Number Conjecture*?
-The *Burning Number Conjecture* seeking to establish an upper limit for the burning number in a given graph. /
+The *Burning Number Conjecture* seeking to establish an upper limit for the burning number in a given graph. /n
 "For a connected graph G with n nodes, the burning number is less than or equal to the ceiling of the square root of n."
