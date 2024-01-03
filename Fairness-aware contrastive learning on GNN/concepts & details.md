@@ -18,20 +18,20 @@ While this method sounds attractive, nonetheless, it more or less ignores the in
 
 
 
-## 3 Widely used fair methods at that time? sheet
+## 3 Widely used fair methods at that time? 
 This section explores fairness methods focusing on the structure and features of input data.
 
 ## 4 What is Contrastive Learning (CL)? 
 <!--[Graph of its structure] Emphasize structure.-->
 The core element of CL is to make distances between similar pairs closer than dissimilar pairs. This structural emphasis aligns with the definition of individual fairness.
 
-## 5	Methods I have used and planned to use? Half Done. 
+## 5	Methods I have used and planned to use?
 ### a) Fair Sampling:
 
 ### b) Correlation-based Fair Sampling: 
 In addition to balancing sample ratios, addressing high correlation with sensitive features using methods like feature masking. \
 BG: Apart from balancing the ratio of sensitive and insensitive samples, I also realized that some other features may have a high correlation with the sensitive feature. However, we could not simply remove these features because apart from the correlation information it involves, these features may contain other information that influence the prediction result. Therefore, fairness methods such as feature masking is necessary to reduce the effect of correlation. \
-Problem: Not implemented given the priority.
+<!--Problem: Not implemented given the priority.-->
 
 ### c) Making Pseudo-Examples: 
 <!--[picture/formula of the inspiration paper]-->
