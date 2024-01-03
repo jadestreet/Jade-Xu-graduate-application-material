@@ -53,7 +53,7 @@ BG: Current fairness metrics on GCA are both group fairness metrics. However, th
 <!--Problem: we had a disagreement on the availability of this method. One mentor strongly supported me while the other did not consider it a good idea. Hence, I put this method into lower priority.-->
 
 
-## 5 Datasets Used
+## 6 Datasets Used
 Cora: citation network \
 Credit: \
 Pokec-c: region \
