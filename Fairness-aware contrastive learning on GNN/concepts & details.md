@@ -13,8 +13,8 @@ This dimension aims to provide equitable opportunities to groups or individuals.
  \
 *For convenience, I only list the most common fairness types. These surveys and tutorials provide further insights into fairness notions in machine learning and graph mining. [^4]*
 
-### 2.2 Perference-Focused Fairness:
-This dimension, though under-explored, revolves around managing resources to ensure every applicant secures their most ideal position. This approach introduces a theoretical perspective, emphasizing utility over equal opportunities. Notably, it raises challenges in real-world application, considering both applicant preferences and maximizing the hiring potential of the company.
+### 2.2 Perference-Focused Fairness[^5]:
+This dimension, though under-explored, revolves around managing resources to ensure every applicant secures their most ideal position. This approach introduces a theoretical perspective, emphasizing utility over equal opportunities. Notably, it raises challenges in real-world application, considering both applicant preferences and maximizing the interests of the company.
 
 For example, two positions X and Y in a company are recruiting. Two applicants, A and B, apply for this company with different preferences over this two positions. A prefers X to Y while B prefers in the opposite way. However, the company may evaluate A as being slightly better than B in earning position Y, and B being slightly better than A in earning position X. In this way, both applicants A and B get their less preferred position. However, to ensure fairness, we could respect their preference and arrange X and Y according to their preferences. 
 
@@ -62,4 +62,5 @@ Bail: race
 [^1]: Dwork, Cynthia, et al. "Fairness through awareness." In ITCS 2012.
 [^2]: Zeng, Ziqian, et al. Fair representation learning for heterogeneous information networks. In AAAI, 2021.
 [^3]: Kusner, Matt J., et al. “Counterfactual fairness.” In NeurIPS, 2017.
-[^4]: Yushun Dong, Oyku Deniz Kose, Yanning Shen, and Jundong Li. 2023. Fairness in Graph Machine Learning: Recent Advances and Future Prospectives. In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '23). Association for Computing Machinery, New York, NY, USA, 5794–5795. https://doi.org/10.1145/3580305.3599555
+[^4]: Yushun Dong, Oyku Deniz Kose, Yanning Shen, and Jundong Li. 2023. [Fairness in Graph Machine Learning: Recent Advances and Future Prospectives.](https://doi.org/10.1145/3580305.3599555) In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '23). Association for Computing Machinery, New York, NY, USA, 5794–5795. 
+[^5]: 
