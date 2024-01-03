@@ -10,7 +10,8 @@ This dimension aims to provide equitable opportunities to groups or individuals.
 - **Group Fairness**: Based on sensitive features, we classify the general population into different groups, and guarantee each group will get fair treat.[^1]
 - **Individual Fairness**: Individuals with simimlar features should be treated equally.[^2]
 - **Counterfactual Fairness**: The value of sensitive feature should not influence one's treatment. [^3] \
-For convenience, I only list the most common fairness types. These surveys and tutorials provide further insights into fairness notions in machine learning and graph mining. [^4]
+ \
+*For convenience, I only list the most common fairness types. These surveys and tutorials provide further insights into fairness notions in machine learning and graph mining. [^4]*
 
 ### 2.2 Perference-Focused Fairness:
 This dimension, though under-explored, revolves around managing resources to ensure every applicant secures their most ideal position. This approach introduces a theoretical perspective, emphasizing utility over equal opportunities. Notably, it raises challenges in real-world application, considering both applicant preferences and maximizing the hiring potential of the company.
