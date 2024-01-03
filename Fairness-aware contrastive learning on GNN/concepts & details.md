@@ -9,7 +9,7 @@ Based on past publishment and my understanding, fairness in GNN encompasses two 
 This dimension aims to provide equitable opportunities to groups or individuals. It includes various types of fairness such as group fairness, individual fairness, and counterfactual fairness. 
 - **Group Fairness**: Based on sensitive features, we classify the general population into different groups, and guarantee each group will get fair treat.[^1]
 - **Individual Fairness**: Individuals with simimlar features should be treated equally.[^2]
-- **Counterfactual Fairness**: The value of sensitive feature should not influence one's treatment. [^3]
+- **Counterfactual Fairness**: The value of sensitive feature should not influence one's treatment. [^3] \
 For convenience, I only list the most common fairness types. These surveys and tutorials provide further insights into fairness notions in machine learning and graph mining. [^4]
 
 ### 2.2 Perference-Focused Fairness:
