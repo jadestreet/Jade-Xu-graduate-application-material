@@ -2,19 +2,19 @@
 ## 1 What is Graph Neural Networks (GNN)? 
 <!--Need literature.-->
 In a nutshell, GNN is a type of Neural Network that takes in graph data as input. \
-More specifically, 
+In contrast to Convolutional Neural Networks (CNNs), which are tailored for grid-structured data, GNNs are adept at handling graphs characterized by more intricate and adaptable structures.[^1]
 ## 2 What is fairness in GNN? 
 Similar to the fairness notion in the real life, there is no general criterion for fairness in GNN. But based on past publishments and my understanding, fairness in GNN encompasses two primary dimensions.
 ### 2.1 Treatment-Focused Fairness:
 
 This dimension aims to provide equitable opportunities to groups or individuals. It includes various types of fairness such as group fairness, individual fairness, and counterfactual fairness. 
-- **Group Fairness**: Based on sensitive features, we classify the general population into different groups, and guarantee each group will get fair treat.[^1]
-- **Individual Fairness**: Individuals with simimlar features should be treated equally.[^2]
-- **Counterfactual Fairness**: The value of sensitive feature should not influence one's treatment. [^3] \
+- **Group Fairness**: Based on sensitive features, we classify the general population into different groups, and guarantee each group will get fair treat.[^2]
+- **Individual Fairness**: Individuals with simimlar features should be treated equally.[^3]
+- **Counterfactual Fairness**: The value of sensitive feature should not influence one's treatment. [^4] \
  \
-*For convenience, I only list the most common fairness types. These surveys and tutorials provide further insights into fairness notions in machine learning and graph mining. [^4]*
+*For convenience, I only list the most common fairness types. These surveys and tutorials provide further insights into fairness notions in machine learning and graph mining. [^5]*
 
-### 2.2 Perference-Focused Fairness[^5]:
+### 2.2 Perference-Focused Fairness[^6]:
 This dimension, though under-explored, revolves around managing resources to ensure every applicant secures their most ideal position. This approach introduces a theoretical perspective, emphasizing utility over equal opportunities. Notably, it raises challenges in real-world application, considering both applicant preferences and maximizing the interests of the company.
 <!--WITH AN GRAPH EXAMPLE-->
 For example, two positions X and Y in a company are recruiting. Two applicants, A and B, apply for this company with different preferences over this two positions. A prefers X to Y while B prefers in the opposite way. However, the company may evaluate A as being slightly better than B in earning position Y, and B being slightly better than A in earning position X. In this way, both applicants A and B get their less preferred position. However, to ensure fairness, we could respect their preference and arrange X and Y according to their preferences. 
@@ -71,9 +71,9 @@ Pokec-c: region \
 Pokec-z: region \
 Bail: race
 -->
-
-[^1]: Dwork, Cynthia, et al. "Fairness through awareness." In ITCS 2012.
-[^2]: Zeng, Ziqian, et al. Fair representation learning for heterogeneous information networks. In AAAI, 2021.
-[^3]: Kusner, Matt J., et al. “Counterfactual fairness.” In NeurIPS, 2017.
-[^4]: Yushun Dong, Oyku Deniz Kose, Yanning Shen, and Jundong Li. 2023. [Fairness in Graph Machine Learning: Recent Advances and Future Prospectives.](https://doi.org/10.1145/3580305.3599555) In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '23). Association for Computing Machinery, New York, NY, USA, 5794–5795. 
-[^5]: 
+[^1]: Scarselli, F., Gori, M., Tsoi, A. C., Hagenbuchner, M., & Monfardini, G. (2008). The graph neural network model. IEEE Transactions on Neural Networks, 20(1), 61-80. 
+[^2]: Dwork, Cynthia, et al. "Fairness through awareness." In ITCS 2012.
+[^3]: Zeng, Ziqian, et al. Fair representation learning for heterogeneous information networks. In AAAI, 2021.
+[^4]: Kusner, Matt J., et al. “Counterfactual fairness.” In NeurIPS, 2017.
+[^5]: Yushun Dong, Oyku Deniz Kose, Yanning Shen, and Jundong Li. 2023. [Fairness in Graph Machine Learning: Recent Advances and Future Prospectives.](https://doi.org/10.1145/3580305.3599555) In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '23). Association for Computing Machinery, New York, NY, USA, 5794–5795. 
+[^6]: 
