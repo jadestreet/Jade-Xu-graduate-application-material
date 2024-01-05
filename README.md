@@ -10,4 +10,4 @@ The **code** is the algorithm I built for reproduing the process of burning grap
 <br />
 ## Fairness-aware contrastive learning on GNN
 This folder contains presentation slide of my summer research experience at UIUC, which corresponding to the second paragraph about my preparation in my application essay. <br />
-Given the five minutes time limit for the presentation, the **presentation slide** gives a brief background introduction of fairness in GNN and contrastive learning, introduces the fair sampling method and give experimental results. More details could be explored in the  *README* file and *concepts & details* file inside. <br />
+Given the five minutes time limit for the presentation, the **presentation slide** gives a brief background introduction of fairness in GNN and contrastive learning, introduces the fair sampling method and show sample experimental results. More details could be explored in the  *README* file and *concepts & details* file inside. <br />
