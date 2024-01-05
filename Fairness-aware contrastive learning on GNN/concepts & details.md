@@ -19,7 +19,7 @@ This dimension, though under-explored, revolves around managing resources to ens
 <!--WITH AN GRAPH EXAMPLE-->
 For example, two positions X and Y in a company are recruiting. Two applicants, A and B, apply for this company with different preferences over this two positions. A prefers X to Y while B prefers in the opposite way. However, the company may evaluate A as being slightly better than B in earning position Y, and B being slightly better than A in earning position X. In this way, both applicants A and B get their less preferred position. However, to ensure fairness, we could respect their preference and arrange X and Y according to their preferences. \
 
-![e1](/../main/pics/Hiring 1.jpg) \
+![e1]([/../main/pics/Hiring 1.jpg](https://github.com/jadestreet/Jade-Xu-graduate-application-material/blob/main/Fairness-aware%20contrastive%20learning%20on%20GNN/pics/Hiring%201.jpg) \
 ![e2](/Fairness-aware contrastive learning on GNN/pics/Hiring 2.jpg) \
 
 While this method sounds attractive, nonetheless, it more or less ignores the interest of the company side. From the applicants’ perspective, they both get what they want. But the company may want to maximize the possibility of hiring the most qualified applicants. If the abilities of A and B are almost the same, respecting their preferences will not be a problem. If not, more information deserves further consideration. 
