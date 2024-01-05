@@ -51,13 +51,13 @@ Apart from balancing the ratio of sensitive and insensitive samples, I also real
 <!--[picture/formula of the inspiration paper]-->
 **Overview**: Addressing imbalances in sensitive samples through the creation of pseudo-examples during model training. \
  \
-During the experiments, we found that in some datasets, the number of sensitive samples and insensitive samples are very unbalanced. In which way we worried about whether the model could analyze the minority group thoroughly. Therefore, I borrowed the idea from one publication about producing pseudo-examples when training the model to alleviate this problem. 
+During the experiments, we found that in some datasets, the number of sensitive samples and insensitive samples are very unbalanced. In which way we worried about whether the model could analyze the minority group thoroughly. Therefore, I borrowed the idea from one publication about producing pseudo-examples during training the model to alleviate this problem. 
 <!--Problem: I was on the way to making pseudo-examples, but due to demanding schedule. I quitted the summer research.-->
 
 ### c) Applying Individual Fairness Loss Metric: [picture of CL structure & definition of individual fairness]
 **Overview**: Exploring the incorporation of individual fairness loss metrics into the loss function, with considerations on structure alignment. \
  \
-Current fairness metrics on GCA are both group fairness metrics. However, the structure of CL corresponds much better to the definition of individual fairness as they both emphasize individual samples. 
+Current fairness metrics on GCA are all group fairness metrics. However, the structure of CL fits much better with the definition of individual fairness as they both emphasize individual samples. 
 <!--Problem: we had a disagreement on the availability of this method. One mentor strongly supported me while the other did not consider it a good idea. Hence, I put this method into lower priority.-->
 
 <!--
