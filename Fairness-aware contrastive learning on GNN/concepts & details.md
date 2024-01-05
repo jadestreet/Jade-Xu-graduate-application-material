@@ -24,17 +24,21 @@ While this method sounds attractive, nonetheless, it more or less ignores the in
 ### How to Define Fairness?/How to Select Sensitive Features?
 While there was no general criterion for fairness in ML, we define fairness/select sensitive features based on social-cultural concept and empirical experiments. 
 1. Draw features from the pool of disadvantaged groups: gender, race, region…
-2. Conduct experiments to see if there are any differences between sensitive groups & insensitive groups.
+2. Conduct experiments to see if there are any differences in the output of the model between sensitive groups & insensitive groups.
 
 ## 3 Widely used fair methods at that time? 
-This section explores fairness methods focusing on the structure and features of input data.
+As GNN takes in graph data as input, many fairness improvement methods focus on modifying the structure (nodes and edges) and features of input data under different settings. \
+In the structure domain, the common methods include adding nodes/edges, and removing nodes/edges; In the features domain, the common methods include feature masking. \
+However, the methods I explored at that that centered on the graph end. With time passed, there are fruitful directions such as optimization on the matrices where are the form we saved graphs, improvement through overall GNN structure like loss functions. 
+
 <!--FIND THE PAPER I READ-->
 
-## 4 What is Contrastive Learning (CL)? 
-<!--[Graph of its structure] Emphasize structure.-->
+<!-- ## 4 What is Contrastive Learning (CL)? 
+[Graph of its structure] Emphasize structure.
 The core element of CL is to make distances between similar pairs closer than dissimilar pairs. This structural emphasis aligns with the definition of individual fairness.
+-->
 
-## 5	Methods I planned to use?
+## 4	Methods I planned to use?
 <!-- ### a) Fair Sampling:-->
 
 ### a) Correlation-based Fair Sampling: 
@@ -53,13 +57,14 @@ Exploring the incorporation of individual fairness loss metrics into the loss fu
 BG: Current fairness metrics on GCA are both group fairness metrics. However, the structure of CL corresponds much better to the definition of individual fairness as they both emphasize individual samples. 
 <!--Problem: we had a disagreement on the availability of this method. One mentor strongly supported me while the other did not consider it a good idea. Hence, I put this method into lower priority.-->
 
-
+<!--
 ## 6 Datasets Used
 Cora: citation network \
 Credit: \
 Pokec-c: region \
 Pokec-z: region \
 Bail: race
+-->
 
 [^1]: Dwork, Cynthia, et al. "Fairness through awareness." In ITCS 2012.
 [^2]: Zeng, Ziqian, et al. Fair representation learning for heterogeneous information networks. In AAAI, 2021.
