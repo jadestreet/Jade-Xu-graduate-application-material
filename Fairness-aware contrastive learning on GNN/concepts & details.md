@@ -38,7 +38,7 @@ However, the methods I explored at that that centered on the graph end. With tim
 The core element of CL is to make distances between similar pairs closer than dissimilar pairs. This structural emphasis aligns with the definition of individual fairness.
 -->
 
-## 4	Methods I planned to use?
+## 4	Methods deserve further consideration
 <!-- ### a) Fair Sampling:-->
 
 ### a) Correlation-based Fair Sampling: 
