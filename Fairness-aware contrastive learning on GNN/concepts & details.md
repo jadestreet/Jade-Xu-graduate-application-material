@@ -2,7 +2,7 @@
 ## 1 What is Graph Neural Networks (GNN)? 
 <!--Need literature.-->
 In a nutshell, GNN is a type of Neural Network that takes in graph data as input. \
-In contrast to Convolutional Neural Networks (CNNs), which are tailored for grid-structured data, GNNs are adept at handling graphs characterized by more intricate and adaptable structures.[^1]
+In contrast to Convolutional Neural Networks (CNNs), which are tailored for grid-structured data, GNNs are adept at handling graphs characterized by more intricate and adaptable structures.[^1] It is because graphs, composed of nodes and edges, can not only represent the traditional grid structures, but also have a broader extension.
 ## 2 What is fairness in GNN? 
 Similar to the fairness notion in the real life, there is no general criterion for fairness in GNN. But based on past publishments and my understanding, fairness in GNN encompasses two primary dimensions.
 ### 2.1 Treatment-Focused Fairness:
