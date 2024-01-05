@@ -42,8 +42,9 @@ The core element of CL is to make distances between similar pairs closer than di
 <!-- ### a) Fair Sampling:-->
 
 ### a) Correlation-based Fair Sampling: 
-In addition to balancing sample ratios, addressing high correlation with sensitive features using methods like feature masking. \
-BG: Apart from balancing the ratio of sensitive and insensitive samples, I also realized that some other features may have a high correlation with the sensitive feature. However, we could not simply remove these features because apart from the correlation information it involves, these features may contain other information that influence the prediction result. Therefore, fairness methods such as feature masking is necessary to reduce the effect of correlation. 
+**Overview**: In addition to balancing sample ratios based on sensitive features, there are other features that may have a high correlation with sensitive features, in which way sensitive information would still influence the model output. Therefore, applying methods like feature masking is necessary to alleviate this problem. \
+ \
+Apart from balancing the ratio of sensitive and insensitive samples, I also realized that some other features may have a high correlation with the sensitive feature. However, we could not simply remove these features because apart from the correlation information it involves, these features may contain other information that influence the prediction result. Therefore, fairness methods such as feature masking is necessary to reduce the effect of correlation. 
 <!--Problem: Not implemented given the priority.-->
 
 ### b) Making Pseudo-Examples: 
