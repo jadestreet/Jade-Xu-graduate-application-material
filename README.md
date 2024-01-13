@@ -3,7 +3,7 @@ I am glad that you visit my GitHub page, this README file will give you a brief 
  <br />
 In each folder, there is also one *README* file that gives an overview of each experience and one *concepts & details* file that introduces key concepts required to understand the topic.
 
-If you would like to schedule a meeting with me, feel free to check the [google sheet](https://docs.google.com/spreadsheets/d/1YZjEhVQxF_RBALJ7ht5AAa6ntHYPDYNBxh6bhurICrs/edit#gid=225956874) of my free time. I will update the sheet weekly.
+If you would like to schedule a meeting with me, feel free to check the [google sheet](https://docs.google.com/spreadsheets/d/1YZjEhVQxF_RBALJ7ht5AAa6ntHYPDYNBxh6bhurICrs/edit#gid=225956874){:target="_blank"} of my free time. I will update the sheet weekly.
 
 ## IGL-burning graph
 This folder contains code, poster and report of my first research experience at Illinois Geometry Lab, which corresponding to the first paragraph about my preparation in my application essay. <br />
