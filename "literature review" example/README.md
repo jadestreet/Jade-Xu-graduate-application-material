@@ -12,9 +12,9 @@ Besides, to compare the papers within one topic and across different topics, usi
 
 ## Inspiring
 The most important part for researchers is to explore new areas and solve puzzles, which is also the goal of reading papers. \
-To help me decide how much do I need this paper, I add columns **2.1 to 2.3** to learn more about the background of the problem, evalute the causes of the problem, and whether the problem deserves further exploration. \
-The columns **4 and 6** is introduced to compare the new method in the paper with other baseline methods, and make my own analysis about the superiority of method in that field. \
-Finally, I introduce columns **7 and 7.1** to record my intuitive ideas about further extensions of methods in that paper. The **7.1** could include links to theoritical or empirical support to the improvement.
-
+To help me decide how much do I need this paper, I add columns **2.1 to 2.3** to learn more about the background of the problem, evaluate the causes of the problem, and whether the problem deserves further exploration. \
+Columns **4 and 6** are introduced to compare the new method in the paper with other baseline methods, and make my own judgment about the superiority of method in that field. \
+Finally, I introduce columns **7 and 7.1** to record my intuitive ideas about further extensions of methods in that paper. The **7.1** could include links to theoretical or empirical support for the improvement.
 
 # Why I list this part here
+My primary objective is to convey my commitment to continuous learning and reflection, while also illustrating how I have navigated challenges in my academic journey. Despite various constraints, I acknowledge a scarcity of substantial academic achievements. However, I maintain a steadfast belief that, when presented with an opportunity, I can make meaningful contributions. I sincerely hope you share this belief in my potential!
