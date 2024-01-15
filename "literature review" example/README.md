@@ -7,5 +7,7 @@ One key part of reading literature is the conclusion: what is the problem they f
 However, after reading a great amount of paper, we may face problems such as forgetting the key information of each one and having difficulty finding the paper we want. To fix these two problems, I chose to record all the papers I read in the Notion, a platform that easily builds connections between information. Through the **Paper** column, I could easily find the details when I want to use some method; through the 4-level classification: area, focus, sub-type, and paper-type, I would filter all papers under one topic conveniently.  
 
 ## Sorting & Comparing
-Apart from 
+Apart from extracting key information from each paper, one important reason behind reading literature is to find the development of this topic. Therefore, to get a chronological order of each topic, I added the **Date** column. \
+Besides, to compare the papers within one topic and across different topics, using texts to record key elements is troublesome with comparison. To resolve this problem, I added some labels to simplify the problem, methods, advantages, and extension points, which is easy for comparison after filtering.
+
 ## Inspiring
