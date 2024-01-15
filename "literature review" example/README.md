@@ -8,6 +8,13 @@ However, after reading a great amount of paper, we may face problems such as for
 
 ## Sorting & Comparing
 Apart from extracting key information from each paper, one important reason behind reading literature is to find the development of this topic. Therefore, to get a chronological order of each topic, I added the **Date** column. \
-Besides, to compare the papers within one topic and across different topics, using texts to record key elements is troublesome with comparison. To resolve this problem, I added some labels to simplify the problem, methods, advantages, and extension points, which is easy for comparison after filtering.
+Besides, to compare the papers within one topic and across different topics, using texts to record key elements is troublesome with comparison. To resolve this problem, I added some labels to simplify the problem, methods, advantages, and extension points, which are easy to compare after filtering.
 
 ## Inspiring
+The most important part for researchers is to explore new areas and solve puzzles, which is also the goal of reading papers. \
+To help me decide how much do I need this paper, I add columns **2.1 to 2.3** to learn more about the background of the problem, evalute the causes of the problem, and whether the problem deserves further exploration. \
+The columns **4 and 6** is introduced to compare the new method in the paper with other baseline methods, and make my own analysis about the superiority of method in that field. \
+Finally, I introduce columns **7 and 7.1** to record my intuitive ideas about further extensions of methods in that paper. The **7.1** could include links to theoritical or empirical support to the improvement.
+
+
+# Why I list this part here
