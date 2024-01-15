@@ -1,2 +1,2 @@
-*As the form has many columns (properties), feel free to download the file to see the details.*
+*As the form has many columns (properties), feel free to download the file to see the details.* \
 I was struggling with making the most of each literature I read, either forgetting information or misplacing the papers. Then, I spent much time think about what I need from each literature and how should I connect dots to lines, or even networks. Finally, I conclude four words that serve as key parts in my own reading experience: conclude, sort, compare, and inspire.
