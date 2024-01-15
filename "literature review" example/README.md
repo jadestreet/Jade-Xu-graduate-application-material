@@ -1,4 +1,4 @@
-*As the form has many columns (properties), feel free to download the file to see the details.* \
+*As the form has many columns (properties), feel free to download the file to see the details.* 
 # Why I read like this
 I grappled with optimizing my engagement with each piece of literature, often facing challenges such as forgetting crucial information or misplacing papers. In response, I dedicated significant time to contemplating what I sought from each piece of literature and devised strategies to connect dots into cohesive lines or even intricate networks. Consequently, I distilled my reading experience into four pivotal actions: concluding, sorting, comparing, and finding inspiration.
 
