@@ -32,7 +32,7 @@ While there was no general criterion for fairness in ML, we define fairness/sele
 ## 3 Widely used fair methods at that time? 
 As GNN takes in graph data as input, many fairness improvement methods focus on modifying the structure (nodes and edges) and features of input data under different settings. \
 In the structure domain, the common methods include adding nodes/edges, and removing nodes/edges; In the features domain, the common methods include feature masking. \
-However, the methods I explored at that that centered on the graph end. With time passed, there are fruitful directions such as optimization on the matrices where are the form we saved graphs, improvement through overall GNN structure like loss functions. 
+However, the methods I explored at that time centered on the graph end. With time passed, there are fruitful directions such as optimization on the matrices where are the form we saved graphs, improvement through overall GNN structure like loss functions. 
 
 <!--FIND THE PAPER I READ-->
 
